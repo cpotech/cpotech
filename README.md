@@ -1,6 +1,6 @@
 # Hi, I'm Charlie 👋
 
-📍 **Northern Ireland** | 💼 **Full-Stack Engineer** | 🏆 **17+ Years Experience**
+📍 **Northern Ireland** | 💼 **Full-Stack Engineer** | 🏆 **18+ Years Corp Enterprise IT/SD Experience**
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
@@ -12,6 +12,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ## GitHub Activity
 
