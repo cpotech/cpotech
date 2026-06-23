@@ -18,3 +18,13 @@
 
 - 🕹️ **[Yolium-Desktop](https://github.com/cpotech/yolium-desktop)** - Orchestrate AI coding agents (Claude Code, OpenCode, Codex, Yoli) in isolated Docker containers.
 - 🤖 **[Yoli](https://github.com/cpotech/yoli)** - A small, provider-agnostic coding-agent CLI written in Go.
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=cpotech&hide_border=true)
+
+## Connect
+
+[![Blog](https://img.shields.io/badge/charlieporter.tech-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://charlieporter.tech)
+[![LinkedIn](https://img.shields.io/badge/-charlie.porter-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cp-)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cpotech)
