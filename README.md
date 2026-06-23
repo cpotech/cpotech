@@ -15,5 +15,6 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ## Current Projects
-🕹️ **[Yolium-Desktop](https://github.com/cpotech/yolium-desktop)** - 'Oorchestrate AI coding agents (Claude Code, OpenCode, Codex, Yoli) in isolated Docker containers.
-🤖 **[Yoli](https://github.com/cpotech/yoli)** - A small, provider-agnostic coding-agent CLI written in Go.
+
+- 🕹️ **[Yolium-Desktop](https://github.com/cpotech/yolium-desktop)** - 'Oorchestrate AI coding agents (Claude Code, OpenCode, Codex, Yoli) in isolated Docker containers.
+- 🤖 **[Yoli](https://github.com/cpotech/yoli)** - A small, provider-agnostic coding-agent CLI written in Go.
